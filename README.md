@@ -28,7 +28,7 @@
 <br /><br />
 
 - 🔭 I’m currently working on personal project 
-- 🌱 I’m currently learning <img alt="reactjs" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">, <img alt="sasslang" src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> and <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+- 🌱 I’m currently learning React.js, SASS and Nuxt.js
 - 💬 Ask me about programming, front-end and UI Design
 
 
