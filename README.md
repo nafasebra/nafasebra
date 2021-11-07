@@ -2,7 +2,7 @@
  Hi there 👋 I'm Nafas 😃
 </h2>
 <p align="center">
- A junior Front-end developer and UI Designer but Progress at work is the priority in my life ✌
+ Front-end developer and UI Designer but Progress at work is the priority in my life ✌
 </p>
 
 ## My Favorites
