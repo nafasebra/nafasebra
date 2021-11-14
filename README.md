@@ -5,15 +5,6 @@
  Front-end developer and UI Designer but Progress at work is the priority in my life ✌
 </p>
 
-## My Favorites
- - 💻 Write codes
- - 🎨 Painting + Designing UI/UX App and Websites 
- - 📊 Marketing 😎
- - 📈 SEO 
- - 📹 Creating Content (in instagram and Youtube or so of so ...)📺🤩
- - ✍ Writing 
- - 📸 Taking photo
-
 ## Tech and tools
 <div align="center">
  <h3 align="center">Programming language and frameworks</h3>
@@ -30,6 +21,16 @@
 - 🔭 I’m currently working on personal project 
 - 🌱 I’m currently learning React.js, SASS and Nuxt.js
 - 💬 Ask me about programming, front-end and UI Design
+
+
+## My Favorites
+ - 💻 Write codes
+ - 🎨 Painting + Designing UI/UX App and Websites 
+ - 📊 Marketing 😎
+ - 📈 SEO 
+ - 📹 Creating Content (in instagram and Youtube or so of so ...)📺🤩
+ - ✍ Writing 
+ - 📸 Taking photo
 
 
 ## contact me:
