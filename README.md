@@ -1,6 +1,6 @@
 <h1> Hello there</h1>
-<p align="center">
- Front-end developer and UI Designer but Progress at work is the priority in my life ✌
+<p>
+ I'm Front-end developer and UI Designer and to progress at work is the priority in my life ✌
 </p>
 
 ## Tech and tools
