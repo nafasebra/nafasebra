@@ -1,6 +1,5 @@
-<h2 align="center">
- Hi there 👋 I'm Nafas 😃
-</h2>
+
+ ##Hi there 👋 I'm Nafas 😃
 <p align="center">
  Front-end developer and UI Designer but Progress at work is the priority in my life ✌
 </p>
