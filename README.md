@@ -1,5 +1,5 @@
 
- ##Hi there 👋 I'm Nafas 😃
+ ##Hi there
 <p align="center">
  Front-end developer and UI Designer but Progress at work is the priority in my life ✌
 </p>
