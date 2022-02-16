@@ -35,7 +35,7 @@
 <a href="https://www.instagram.com/nafas_ebra/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
-<a href="https://www.linkedin.com/in/nafiseh-ebrahimi-325653189/">
+<a href="https://www.linkedin.com/in/nafas-ebrahimi-325653189">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 
