@@ -44,13 +44,6 @@ to progress at work is the priority in my life ✌
 <img alt="email" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
 <a href="https://telegram.me/nafas_ebra">
-<img alt="telegram" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a> 
 
-
-<br />
-
-ebranafas@gmail.com
-
-<br />
-Telegram ID: @nafas_ebra
