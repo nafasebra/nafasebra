@@ -6,7 +6,7 @@ to progress at work is the priority in my life ✌
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafasebra)](https://github.com/nafasebra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafasebra&theme=radical)](https://github.com/nafasebra/github-readme-stats)
 
 ## Tech and tools
 <div>
