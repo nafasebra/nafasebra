@@ -15,12 +15,6 @@ to progress at work is the priority in my life ✌
 </div>
 
 
-<br /><br />
-
-- 🔭 I’m currently working on personal project 
-- 🌱 I’m currently learning React.js, SASS and Nuxt.js
-- 💬 Ask me about programming, front-end and UI Design
-
 
 ## My Favorites
  - 💻 Write codes
