@@ -16,14 +16,6 @@ to progress at work is the priority in my life ✌
 
 
 
-## My Favorites
- - 💻 Write codes
- - 🎨 Painting + Designing UI/UX App and Websites 
- - 📊 Marketing 😎
- - 📹 Creating Content (in instagram and Youtube or so of so ...)📺🤩
- - ✍ Writing 
-
-
 ## contact me:
 <a href="https://www.linkedin.com/in/nafas-ebrahimi-325653189">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
