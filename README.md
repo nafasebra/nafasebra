@@ -7,6 +7,8 @@ to progress at work is the priority in my life ✌
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafasebra&theme=radical)](https://github.com/nafasebra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafasebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech and tools
 <div>
