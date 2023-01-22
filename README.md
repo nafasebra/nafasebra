@@ -1,8 +1,10 @@
 # Hello there👋 My name is nafas
    
-#### A Front-end developer
-#### 🎯 I am working currently to personal projects and will be try to work with open-source project (the biggest, the better)
-#### 🌱 Improving my soft and hard-skills
+#### A serius Front-end web developer
+- 🎯 I am working currently to personal projects and will be try to work with open-source project (the biggest, the better)-
+- 🌱 Improving my soft and hard-skills
+
+<br />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafasebra&theme=radical)](https://github.com/nafasebra/github-readme-stats)
