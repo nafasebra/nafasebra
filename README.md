@@ -1,4 +1,4 @@
-# Hello there👋 My name is nafas
+# Hello there👋 My full name is Nafas Ebrahimi 👩‍💻
    
 #### A seriuos Front-end web developer
 - 🎯 I am working currently to personal projects and will be try to work with open-source project (the bigger, the better)-
