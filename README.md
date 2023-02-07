@@ -1,8 +1,14 @@
-# Hello there👋 My full name is Nafas Ebrahimi 👩‍💻
+# Hello there👋 ![](https://visitor-badge.glitch.me/badge?page_id=nafasebra)
    
-#### A seriuos Front-end web developer
+My full name is Nafas Ebrahimi and i'm Front-end web developer
+
+### 🤔 A few quick facts about me :)
+
 - 🎯 I am working currently to personal projects and will be try to work with open-source project (the bigger, the better)-
-- 🌱 Improving my soft and hard-skills
+- 🌱 in Improving soft and hard-skills
+- 👩‍💻 Most of my projects available in github
+- 👀 Check out [my website](nafasebra.vercel.app) (farsi)
+- 😁 Fun fact: To learn everything is entertament for me :)
 
 <br />
 
