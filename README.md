@@ -16,7 +16,7 @@ My name is Nafas Ebrahimiو a passionate self-taught Front-end web developer fro
 
 <br />
 
-## 💻 My the best open-source projects
+## 💻 Some open-source projects
 <table>
   <thead align="center">
     <tr border: none;>
