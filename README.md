@@ -1,6 +1,6 @@
 # Hello there👋 ![](https://visitor-badge.glitch.me/badge?page_id=nafasebra)
    
-My full name is Nafas Ebrahimi and i'm Front-end web developer
+My name is Nafas Ebrahimiو a passionate self-taught Front-end web developer from Iran. my passion is Implementing the ideas that comes to my brain and take great care in the experience, architecture, and code quality of the things I build. 
 
 ### 🤔 A few quick facts about me :)
 
@@ -12,14 +12,47 @@ My full name is Nafas Ebrahimi and i'm Front-end web developer
 
 <br />
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafasebra&theme=radical)](https://github.com/nafasebra/github-readme-stats)
-<br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nafasebra&theme=dark)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafasebra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tech and tools
+<br />
+
+## 💻 My the best open-source projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nafasebra/matnsaazz"><b>Matnsaazz</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nafasebra/matnsaazz?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nafasebra/matnsaazz?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nafasebra/matnsaazz?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nafasebra/matnsaazz?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/nafasebra/CRUD-app-redux"><b>CRUD-app-redux</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nafasebra/CRUD-app-redux?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nafasebra/CRUD-app-redux?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nafasebra/CRUD-app-redux?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nafasebra/CRUD-app-redux?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nafasebra/fetch-api-github"><b>fetch-api-githubr</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nafasebra/fetch-api-github?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nafasebra/fetch-api-github?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nafasebra/fetch-api-github?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nafasebra/fetch-api-github?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+## 👩‍💻 Tech and tools
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -36,14 +69,4 @@ My full name is Nafas Ebrahimi and i'm Front-end web developer
 <img alt="AdobeXD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
-
-
-## contact me:
-<a href="https://www.linkedin.com/in/nafas-ebrahimi-325653189">
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a href="https://telegram.me/nafas_ebra">
-<img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a> 
 
