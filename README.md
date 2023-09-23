@@ -1,6 +1,6 @@
 # Hello there👋 ![](https://visitor-badge.glitch.me/badge?page_id=nafasebra)
    
-My name is Nafas Ebrahimi, a passionate self-taught Front-end web developer from Iran. my passion is Implementing the ideas that comes to my brain and take great care in the experience, architecture, and code quality of the things I build. 
+My name is Nafas Ebrahimi, a passionate self-taught front-end web developer from Iran. My passion is implementing the ideas that comes to my brain and take great care in the experience, architecture, and code quality of the things i build. 
 
 ### 🤔 A few quick facts about me :)
 
