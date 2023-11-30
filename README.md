@@ -7,7 +7,7 @@ My name is Nafas Ebrahimi, a passionate self-taught front-end web developer from
 - 🎯 I am working currently to personal projects and will be try to work with open-source project (the bigger, the better)-
 - 🌱 in Improving soft and hard-skills
 - 👩‍💻 Most of my projects available in github
-- 👀 Check out [my website](nafasebra.ir) (farsi)
+- 👀 Check out [my website](https://nafasebra.ir) (farsi)
 - 😁 Fun fact: To learn everything is entertament for me :)
 
 <br />
