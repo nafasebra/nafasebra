@@ -36,6 +36,13 @@ My name is Nafas Ebrahimi, a passionate self-taught front-end web developer from
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nafasebra/matnsaazz?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/nafasebra/bankdash"><b>Bankdash</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nafasebra/bankdash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nafasebra/bankdash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nafasebra/bankdash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nafasebra/bankdash?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nafasebra/nafasebra-portfolio"><b>Nafasebra Portfolio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nafasebra/nafasebra-portfolio?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nafasebra/nafasebra-portfolio?style=flat-square&labelColor=343b41"/></td>
