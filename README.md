@@ -1,6 +1,6 @@
 # Hello there 
 
-My name is Nafas, a developer who loves building things and learning non-stop.
+I'm Nafas Ebrahimi. I code, I build, I learn and then I do it all over again. Passionate about creating things that make a difference.
 
 <br />
 
@@ -23,4 +23,3 @@ My name is Nafas, a developer who loves building things and learning non-stop.
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Dioxus](https://img.shields.io/badge/-Dioxus-FF6B00?style=flat-square)
 ![Protobuf](https://img.shields.io/badge/-Protobuf-4A8BDF?style=flat-square&logo=google&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
