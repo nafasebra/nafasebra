@@ -4,8 +4,13 @@ I'm Nafas Ebrahimi. I code, I build, I learn and then I do it all over again. Pa
 
 <br />
 
+[![An image of @nafasebra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nafasebra)](https://holopin.io/@nafasebra)
+
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafasebra&theme=radical)](https://github.com/nafasebra/github-readme-stats)
 
+<br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
