@@ -8,10 +8,6 @@ I'm Nafas Ebrahimi. I code, I build, I learn and then I do it all over again. Pa
 
 <br />
 
-<img src="https://algora.io/og/user/nafasebra" />
-
-<br />
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=react&logoColor=black)
